@@ -1,6 +1,6 @@
 # Client-Server Socket
 
-<p>In this project I have implemented a simple Client Server Socket Using JOptionPane.</p>
+<p>In this project I have implemented a simple connection-oriented TCP Client Server Socket Using JOptionPane.</p>
 
 <h4>Pre-req:-</h4>
 You should have Java preinstalled on your machine.
